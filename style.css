@@ -1,0 +1,34 @@
+body{
+  background-color: #EAF6F6;
+  text-align: center;
+  font-family:serif;
+}
+ol{
+  text-align:center;
+}
+h1{
+  color: #66BFBF;
+
+}
+h3
+{
+  color: #66BFBF;
+}
+hr
+{
+  border-style: dashed;
+}
+.top-cloud{
+  position:absolute;
+  bottom:180px;
+  right:1000px;
+}
+.mountain{
+left:10px;
+
+}
+.bottom-cloud{
+  position: absolute;
+  bottom:300px;
+}
+}
